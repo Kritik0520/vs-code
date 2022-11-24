@@ -14,7 +14,7 @@ public class Main {
         }
 
       }
-      if (count == 0) {
+      if (count == 0 ) {
         System.out.println("prime");
       }
       else {
